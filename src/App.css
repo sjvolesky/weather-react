@@ -17,6 +17,10 @@ a {
   text-decoration: none;
   color: rgb(255, 113, 69);
 }
+p {
+  text-align: start;
+  color: white;
+}
 
 .name {
   color: whitesmoke;

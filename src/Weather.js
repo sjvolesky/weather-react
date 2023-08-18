@@ -69,6 +69,15 @@ export default function Weather() {
           </div>
         </div>
       </div>
+      <p>
+        <a
+          href="https://github.com/sjvolesky/weather-react.git"
+          target="_blank"
+        >
+          Open source code
+        </a>
+        , by Samantha Volesky
+      </p>
     </div>
   );
 }
