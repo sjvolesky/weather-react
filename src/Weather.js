@@ -73,6 +73,7 @@ export default function Weather() {
         <a
           href="https://github.com/sjvolesky/weather-react.git"
           target="_blank"
+          rel="noreferrer"
         >
           Open source code
         </a>
